@@ -62,7 +62,14 @@ A sophisticated voice-based travel assistant specifically designed for the India
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   # Option 1: Use requirements file
+   pip install -r requirements_for_deployment.txt
+   
+   # Option 2: Use pyproject.toml directly
+   pip install -e .
+   
+   # Option 3: Use uv (faster, recommended)
+   pip install uv && uv sync
    ```
 
 4. **Install system dependencies**
