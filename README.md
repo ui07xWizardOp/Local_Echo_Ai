@@ -50,7 +50,7 @@ A sophisticated voice-based travel assistant specifically designed for the India
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/local-echo-ai.git
+   git clone https://github.com/ui07xWizardOp/Local_Echo_Ai.git
    cd local-echo-ai
    ```
 
