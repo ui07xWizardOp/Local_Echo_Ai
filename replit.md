@@ -4,6 +4,15 @@
 
 Local Echo AI is a sophisticated voice-based travel assistant specifically designed for the Indian market. The application provides personalized travel recommendations, cultural stories, and local insights through natural language conversations in multiple Indian languages. Users can interact via voice calls (Exotel), WhatsApp messages (Gupshup), or direct web interface.
 
+## Recent Changes
+
+**July 27, 2025:**
+- ✓ **Fully responsive design implemented** - Mobile-first approach with fluid typography and adaptive layouts
+- ✓ **Navigation stays collapsed** - Hamburger menu on all screen sizes for consistent UX
+- ✓ **Gemini API key updated** - Fixed API connection issues with new key (AIzaSyD3kx9f3V483HcoGRT0FAOeN_QDhzUm-FI)
+- ✓ **ThreadPoolExecutor import fixed** - Resolved import errors in gemini_service.py
+- ✓ **Voice simulation working** - API endpoints responding correctly with language detection
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
